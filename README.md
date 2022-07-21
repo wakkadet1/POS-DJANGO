@@ -1,1 +1,2 @@
-# POS-DJANGO
+# Mypos
+project for SE
